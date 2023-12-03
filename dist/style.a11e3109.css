@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#ContainerID {
+    width: 100%;
+    height: 100%;
+}
+
+/*# sourceMappingURL=/style.a11e3109.css.map */
